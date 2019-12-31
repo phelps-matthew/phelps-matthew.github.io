@@ -1,3 +1,5 @@
-This page: phelps-matthew.github.io
+##Welcome to my github
 
-[TW5 Notes](https://phelps-matthew.github.io/TW5-Notes)
+Current repos:
+* TW5-Notes: A personal knowledge database
+* dotfiles: Linux configuration files (esp. vim)
